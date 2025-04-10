@@ -1,0 +1,1 @@
+bill=sns.load_dataset(tips)
